@@ -20,14 +20,14 @@ Fintech-URL-Classifier is an advanced web tool designed to classify URLs into fi
 - **Data Preprocessing**: Clean and preprocess the extracted data by removing HTML tags, JavaScript, and non-textual elements.
 - **Tokenization and Normalization**: Prepare the data for classification through tokenization and normalization processes.
 - **Custom-Built BERT Model**: Utilize a custom-built BERT model for accurate classification of URLs into fintech and non-fintech categories.
-- **Binary Classification*8: Receive a clear binary indication of whether a URL belongs to the fintech domain.
+- **Binary Classification**: Receive a clear binary indication of whether a URL belongs to the fintech domain.
 
 
--## Installation
+## Installation
 
 1. Clone the repo
     ```sh
-   git clone https://github.com/hiral25p/To-Do-List-WP.git
+   git clone https://github.com/hiral25p/Fintech-URL-Classifier.git
    ```
     
 2. Change your working directory to the project folder:
