@@ -7,7 +7,6 @@ Fintech-URL-Classifier is an advanced web tool designed to classify URLs into fi
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -46,12 +45,6 @@ Introducing Fintech-URL-Classifier, a sophisticated solution for categorizing UR
    ```
 
 5. Run the program
-
-## Usage
-1. Open the Fintech-URL-Classifier application.
-2. Enter the URL you wish to classify.
-3. Click the "Classify" button to start the classification process.
-4. View the results indicating whether the URL is classified as fintech or non-fintech.
 
 ## Contributors
 | Sr No. | Name               |  git-profile     | 
